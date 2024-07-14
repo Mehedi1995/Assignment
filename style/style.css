@@ -63,3 +63,15 @@ padding : 26px 221px;
   .divs1 div p {
     text-align: justify;
   }
+
+  .divt1 div {
+    text-align: center;
+  }
+
+  .divt2{
+    display: flex;
+  }
+
+  .divt2{
+    background-color: aliceblue;
+  }
