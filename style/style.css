@@ -1,31 +1,30 @@
-
-header{
+header {
     display: flex;
     justify-content: space-between;
     margin: 50px 200px;
 }
 
-header nav ul{
+header nav ul {
 
     list-style: none;
     background-color: #04AA6D;
-  border: none;
-  color: white;
-  padding: 5px;
-  text-align: center;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 5px;
-  
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+
 }
 
-.div{
+.div {
     background-image: url('../assets/Hero-bg.png');
-padding : 26px 221px;
+    padding: 26px 221px;
 
 }
 
-.div button{
+.div button {
     border-radius: 5px;
     background-color: black;
     color: white;
@@ -36,42 +35,49 @@ padding : 26px 221px;
     margin-left: auto;
     margin-right: auto;
 }
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     /* width: 50%; */
-  }
+}
 
-  h1{
+h1 {
     text-align: center;
-  }
+}
 
-  .div1{
-   
+.div1 {
+
     margin-left: 150px;
     margin-right: 150px;
     padding: 97px 80px;
-    
-  }
 
-  .divs1{
+}
+
+.divs1 {
     display: flex;
     justify-content: space-between;
 
-  }
-  .divs1 div p {
+}
+
+.divs1 div p {
     text-align: justify;
-  }
+}
 
-  .divt1 div {
+.divt1 div {
     text-align: center;
-  }
+}
 
-  .divt2{
+.divt2 {
     display: flex;
-  }
+}
 
-  .divt2{
+.divt2 {
     background-color: aliceblue;
-  }
+}
+
+.divlast {
+    display: flex;
+    justify-content: space-between;
+}
