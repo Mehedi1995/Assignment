@@ -46,3 +46,20 @@ padding : 26px 221px;
   h1{
     text-align: center;
   }
+
+  .div1{
+   
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 97px 80px;
+    
+  }
+
+  .divs1{
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .divs1 div p {
+    text-align: justify;
+  }
